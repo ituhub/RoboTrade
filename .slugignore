@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment directories
+venv/
+env/
+ENV/
+.venv/
+
+# Development and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Git related
+.git/
+.gitignore
+
+# OS generated files
+Thumbs.db
+.DS_Store
+*.swp
+*.swo
+
+# Backup files
+*~
+*.bak
+*.backup
+
+# Data files (if not needed at runtime)
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite3
+*.json
+*.pkl
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Local configuration files
+*.cfg
+*.conf
+.env
